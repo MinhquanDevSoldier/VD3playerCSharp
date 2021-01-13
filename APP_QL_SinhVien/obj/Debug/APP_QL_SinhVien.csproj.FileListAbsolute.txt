@@ -1,0 +1,17 @@
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\APP_QL_SinhVien.exe.config
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\APP_QL_SinhVien.exe
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\APP_QL_SinhVien.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.csprojAssemblyReference.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.Form1.resources
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.Properties.Resources.resources
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.csproj.GenerateResource.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.csproj.CoreCompileInputs.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.exe
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\BUS.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\BUS.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\obj\Debug\APP_QL_SinhVien.csproj.CopyComplete
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\DAO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\DAO.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\DTO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\APP_QL_SinhVien\bin\Debug\DTO.pdb

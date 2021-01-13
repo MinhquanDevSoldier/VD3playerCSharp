@@ -1,0 +1,6 @@
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DTO\bin\Debug\DTO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DTO\bin\Debug\DTO.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DTO\obj\Debug\DTO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DTO\obj\Debug\DTO.pdb

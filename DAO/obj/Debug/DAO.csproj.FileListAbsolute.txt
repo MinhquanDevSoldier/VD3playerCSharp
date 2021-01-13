@@ -1,0 +1,9 @@
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\bin\Debug\DAO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\bin\Debug\DAO.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\bin\Debug\DTO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\bin\Debug\DTO.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\obj\Debug\DAO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\DAO\obj\Debug\DAO.pdb

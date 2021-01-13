@@ -1,0 +1,11 @@
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\bin\Debug\BUS.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\bin\Debug\BUS.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\bin\Debug\DAO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\bin\Debug\DTO.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\bin\Debug\DAO.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\bin\Debug\DTO.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\obj\Debug\BUS.dll
+D:\Bai-tap\C_Sharp\WIN_FORM\APP_QL_SinhVien\BUS\obj\Debug\BUS.pdb
